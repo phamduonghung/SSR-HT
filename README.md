@@ -1,4 +1,6 @@
 ICASSP2018
+
+
 A NOVEL THRESHOLDING TECHNIQUE FOR THE DENOISING OF MULTICOMPONENT SIGNALS
 
 This MATLAB package is a collection of scripts allowing to generate figures in the paper [1]. This paper addresses the issues of the denoising and retrieval of the components of multicomponent signals from their short-time Fourier transform (STFT). After having recalled the hard-thresholding technique, in the STFT context, we develop a new thresholding technique by exploiting some limitations of the former. Numerical experiments illustrating the benefits of the proposed method to retrieve the modes of noisy multicomponent signals conclude the paper.
