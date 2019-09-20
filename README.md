@@ -7,4 +7,4 @@ This MATLAB package is a collection of scripts allowing to generate figures in t
 
 [1] D.-H. Pham and S. Meignen, “A Novel Thresholding Technique for the Denoising of Multicomponent Signals,” ICASSP 2017, accepted.
 
-COPY RIGHT FSSTn is copyright reserved. For further information, please contact Duong Hung PHAM at duong-hung.pham@univ-grenoble-alpes.fr and Sylvain Meignen at Sylvain.Meignen@univ-grenoble-alpes.fr.
+COPY RIGHT FSSTn is copyright reserved. For further information, please contact Duong Hung PHAM at duong-hung.pham@irit.fr and Sylvain Meignen at Sylvain.Meignen@univ-grenoble-alpes.fr.
